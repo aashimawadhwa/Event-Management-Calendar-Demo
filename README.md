@@ -53,9 +53,10 @@ Custom implementations can be found in this repository:
  ![Screenshot 2023-04-10 at 2 36 04 PM (2)](https://user-images.githubusercontent.com/73706697/230870915-25bbc2fa-f287-4316-ae46-7ebe41e9173a.png)
 
   - **TimePicker** (src/components/common/forms-elements/time-picker)- The timepicker is simple for all languages, the hint shows the time difference between two dates and appears when the dates correspond to each other (that is, the same day is selected) and you can change the state using the keyboard.
-  ![Screenshot 2023-04-10 at 2 33 55 PM (2)](https://user-images.githubusercontent.com/73706697/230870637-a45cc9ad-d39b-4410-b401-4db14602c133.png)
-![Screenshot 2023-04-10 at 2 33 59 PM (2)](https://user-images.githubusercontent.com/73706697/230870654-36c50721-455c-465e-970d-3d7e6928ff02.png)
 
+
+![Screenshot 2023-04-10 at 2 33 59 PM (2)](https://user-images.githubusercontent.com/73706697/230870654-36c50721-455c-465e-970d-3d7e6928ff02.png)
+![Screenshot 2023-04-10 at 2 33 55 PM (2)](https://user-images.githubusercontent.com/73706697/230870637-a45cc9ad-d39b-4410-b401-4db14602c133.png)
 
 
 Author **Aashima Wadhwa**
